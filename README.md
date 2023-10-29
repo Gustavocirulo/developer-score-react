@@ -2,8 +2,6 @@
 
 Este é um projeto de um Testador de Velocidade de Digitação desenvolvido em JavaScript. A aplicação mede a velocidade de digitação do usuário ao reproduzir uma passagem de texto e registrar o tempo necessário para concluir a digitação. É uma ferramenta útil para avaliar a habilidade de digitação.
 
-![Testador de Velocidade de Digitação](screenshot.png)
-
 ## Funcionalidades
 
 - Mede a velocidade de digitação em palavras por minuto (PPM).
